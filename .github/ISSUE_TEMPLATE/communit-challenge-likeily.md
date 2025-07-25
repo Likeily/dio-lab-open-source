@@ -1,5 +1,5 @@
 ---
-name: Communit Challenge
+name: Communit Challenge Likeily
 about: Criação de Issue sobre o Desafio Proposto à comunidade
 title: "[Desafio] Lab Dio - Likeily"
 labels: community challenge
