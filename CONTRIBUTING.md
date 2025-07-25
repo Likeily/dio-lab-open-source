@@ -78,6 +78,7 @@ Após criar o seu Pull Request, nossa automação irá validar a sua submissão.
     
     
 ## Convenção de Commits 
+#Likeily - Adicionando comentário.
 
 | Tipo de Commit |Descrição                                                            | Exemplo
 | ---------------|----------------------------------------------------------------------|-----------
